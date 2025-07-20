@@ -14,7 +14,7 @@
 		A1C0FF6B2E2D351D00511191 /* Exceptions for "TodoUIKit" folder in "TodoUIKit" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				App/Info.plist,
 			);
 			target = A1C0FF582E2D351B00511191 /* TodoUIKit */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = YQW8MK78PZ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TodoUIKit/Info.plist;
+				INFOPLIST_FILE = TodoUIKit/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,7 +176,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = YQW8MK78PZ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TodoUIKit/Info.plist;
+				INFOPLIST_FILE = TodoUIKit/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
